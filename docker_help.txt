@@ -1,0 +1,6 @@
+docker compose build
+docker compose up -d
+docker compose down
+docker exec -it [tab tab choose] bash
+
+xhost + (for display error)
